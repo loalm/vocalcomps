@@ -13,6 +13,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "expressjs": "^1.0.1",
+    "firebase": "^7.10.0",
     "nodemon": "^2.0.2"
   }
 }
